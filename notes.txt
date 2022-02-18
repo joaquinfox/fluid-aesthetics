@@ -1,0 +1,59 @@
+Considerations
+
+Do I want to build this?
+What is the opportunity?
+
+ - does the CDN interface with a website? how?
+ - if not, does it provide it's own customizable landing page? How does it support marketing efforts?
+ 
+ - maybe they don't need a web page
+ 	- if the AR things has one,
+ 	- or if the AR thing means that a page integration will be bad or not possible
+ 	
+- FIRST QUESTION: Do we really need and want a webpage.
+   Yes they do. AR doesn't provide anything like that. It is more of an internal CRM.
+
+
+- SECOND QUESTION: wordpress, next, or custom files?
+	- well im building so ... what do i want to build in?
+	 wp is a whole new thing i am not very interested in learning at the moment...
+	 does AR link nicely to scheduling and a POS?
+	 	- if so, then the web page is very simple
+	 	- if not, and if we need any booking or sales or auth, then it is exponentially more difficult.
+	 	NEXT QUESTION:
+	 		- how does AR present scheduling and purchasing?
+	 		- is it nice and simple?
+	 			- the appointments thing is nice enough
+	 				- can you link to it? TESTME
+				- D told me sales would be in person, at location, using a phone app. so no POS.
+				
+		So no sales, login, scheduling function. The only thing needed is a nice UI for learning about the service and funneling to schedule
+		
+		DESIGN
+		- PAGES
+			- Products & services
+			- FAQ
+			- About us
+			
+	So its decided.
+	I'll build it in next.js
+	NEXT: 
+	 - run locally
+	 - create git project
+	 - use for project management
+	 
+ So when you add a client in AR the system is supposed to send them a link to a scheduling app. Doesn't seem to work that well but ...
+ This means that for a client to book an appointment they have to be added into the system allready...so it will not serve as a landing page. but a landing page cannot link to their scheduling app directly.
+ 
+ uggestion: use AR as an inventory and document management tool but not as a scheduling tool
+ 
+ Conversation with that team.
+ AR limitations design implications
+ - you can't have clients link straight to the AR scheduling app. You have to first create an account for the client, then the system generates messages etc.
+ - so that can't be first contact
+ - use calendly? 
+ - use contact sheet?
+ there is no interface with the AR thing. its just a dashboard, not a CRM.
+ 
+ 
+ 

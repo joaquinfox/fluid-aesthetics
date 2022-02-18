@@ -22,7 +22,7 @@ export default function provider1() {
           <button>
             <a
               target="_blank" rel='noreferrer'
-              href="https://calendly.com/joaquin-fox/new-patient-consultation"
+              href="https://adgmp.myaestheticrecord.com/book/appointments?user_id=OWDE7KxgQlVJdEp1o95RB13aw0m6Le"
             >
               <h4>New Patients</h4>
               <p>
@@ -34,7 +34,7 @@ export default function provider1() {
         </article>
         <article>
           <button>
-            <a target="_blank" rel='noreferrer' href="https://calendly.com/joaquin-fox/30min">
+            <a target="_blank" rel='noreferrer' href="https://adgmp.myaestheticrecord.com/book/appointments?user_id=OWDE7KxgQlVJdEp1o95RB13aw0m6Le">
               <h4>Shorter Consultations</h4>
               <p>
                 Lorem ipsum, dolor sitesse rem et laborum magnam, porro tempore
@@ -47,7 +47,7 @@ export default function provider1() {
           <button>
             <a
               target="_blank" rel='noreferrer'
-              href="https://calendly.com/joaquin-fox/new-patient-consultation"
+              href="https://adgmp.myaestheticrecord.com/book/appointments?user_id=OWDE7KxgQlVJdEp1o95RB13aw0m6Le"
             >
               <h4>Option Three</h4>
               <p>
